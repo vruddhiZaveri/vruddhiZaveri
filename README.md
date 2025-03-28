@@ -3,7 +3,8 @@
 🧠 Student in Dj Sanghvi college of Engineering<br/>
 📖 Pursuing my Btech in Artificial Intelligence and Machine learning<br/>
 🎯 Focus on machine learning, front-end and back-end design<br/>
-🎥 make edits and study vlogs:  1️⃣[Youtube](https://www.youtube.com/@VruddhiZaveri05)
+🎥 : make edits and study vlogs:  1️⃣[Youtube](https://www.youtube.com/@VruddhiZaveri05) 2️⃣[Instagram](https://www.instagram.com/vruds.zav_/)
+ 
 
 Check out my repositories to see what I'm working on!
 
