@@ -1,141 +1,96 @@
-```md
-# ✨ Hey there, I'm Vruddhi Zaveri!
+# ✨ Hi there! I'm Vruddhi 👋
 
-<h3 align="center">AI & Machine Learning Engineer | Generative AI | Data Science | Computer Vision</h3>
+🧠 AI & Machine Learning Student at DJSCE  
+📚 Exploring Generative AI, Data Science, Computer Vision & Multi-Agent Systems  
+🚀 Building AI-powered applications and intelligent systems  
+🎨 Design enthusiast with a love for UI/UX and creative problem solving  
+🎥 Content Creator:
+1️⃣ [YouTube](https://www.youtube.com/@VruddhiZaveri05)
+2️⃣ [Instagram](https://www.instagram.com/vruds.zav_/)
 
-<p align="center">
-  <a href="https://github.com/vruddhiZaveri">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Generative+AI+Enthusiast;Data+Science+%26+Analytics;Computer+Vision+Developer;Building+Intelligent+Systems+%F0%9F%9A%80" />
-  </a>
-</p>
-
----
-
-## 🌸 About Me
-
-🧠 B.Tech Student in Artificial Intelligence & Machine Learning at **DJSCE, Mumbai**
-
-🤖 Passionate about **Generative AI, Data Science, Multi-Agent Systems, Computer Vision & RAG**
-
-📊 Love transforming raw data into meaningful insights and intelligent solutions
-
-💡 Currently building AI-powered applications that solve real-world challenges
-
-🎨 Also interested in UI/UX Design and creating user-friendly digital experiences
-
-🌱 Currently learning advanced AI systems, Agentic AI, and scalable ML solutions
+💫 Check out my repositories to see what I'm building!
 
 ---
 
-## 🚀 Featured Projects
+# 🌐 Socials
 
-### 🌊 AquaScan
-AI-powered aquatic waste detection platform for monitoring and reporting water pollution.
-
-**Tech Stack:** React Native • FastAPI • YOLO • MongoDB • Node.js
-
----
-
-### 🤖 Multi-Agent AI Research System
-Autonomous research assistant powered by Search, Reader, Writer, and Critic agents.
-
-**Tech Stack:** Python • LangChain • OpenAI API • Tavily
-
----
-
-### 🎥 AI Video Assistant with RAG
-Video understanding system enabling natural language interaction with video content.
-
-**Tech Stack:** Python • LangChain • FAISS • LLMs
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/vruddhi-zaveri-996a9a289/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vruddhiZaveri" target="blank">
-<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/vruds.zav_/" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@VruddhiZaveri05" target="blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:vruddhi.zaveri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vruds.zav_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vruddhi-zaveri-996a9a289/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@VruddhiZaveri05)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vruddhi.zaveri@gmail.com)
 
 ---
 
 # 💻 Tech Stack
 
-### 👩‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### ✨ Generative AI
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4081?style=for-the-badge)
-![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent_AI-00C853?style=for-the-badge)
 
-### 📊 Data Science & Analytics
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-green?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-pink?style=for-the-badge)
+
+### 📊 Data Science
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 
 ### 🌐 Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+🌊 **AquaScan** — AI-powered aquatic waste detection platform using Computer Vision
+
+🤖 **Multi-Agent AI Research System** — Autonomous research assistant using LangChain agents
+
+🎥 **AI Video Assistant with RAG** — Video understanding and semantic retrieval system
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vruddhiZaveri&show_icons=true&theme=tokyonight" height="180em"/>
+![](https://github-readme-stats.vercel.app/api?username=vruddhiZaveri&theme=tokyonight&hide_border=false&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vruddhiZaveri&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vruddhiZaveri&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vruddhiZaveri&theme=tokyonight"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vruddhiZaveri&theme=tokyonight&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vruddhiZaveri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vruddhiZaveri&theme=tokyonight&no-frame=true&margin-w=4)
 
 ---
 
-## ✨ Fun Fact
+### ✨ Favorite Quote
 
-> I love combining **AI + Data Science + Design** to create products that are both intelligent and user-friendly 💜
+> "The best way to predict the future is to build it."
 
 ---
 
