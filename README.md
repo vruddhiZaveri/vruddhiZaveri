@@ -100,7 +100,6 @@ Video understanding system that enables natural language interaction with video 
 - 📊 Data Science & Analytics
 - 👁️ Computer Vision
 - 🔍 Retrieval-Augmented Generation
-- 🌐 Full-Stack AI Applications
 
 ---
 
